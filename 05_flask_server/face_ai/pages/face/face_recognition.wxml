@@ -1,0 +1,11 @@
+<!--pages/face/face_recognition.wxml-->
+
+  <view class="btn_all">
+      <view class='btn_register'>
+        <button bindtap="face_register" type="primary">Register</button>
+      </view>
+      <view class='btn_login'>
+        <button bindtap="face_login" type="primary" >Log In</button>
+      </view>    
+  </view>
+
